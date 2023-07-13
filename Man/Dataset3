@@ -1,0 +1,18 @@
+Data used in:
+
+Bee species richness through time in an urbanizing landscape of the southeastern USA
+
+Selina A. Ruzi, Elsa Youngsteadt, April Cherveny, Jessica Kettenbach, Hannah K. Levenson, Danesha Seth Carley, Jaime A. Collazo, and Rebecca E. Irwin
+
+Published in ####
+
+List of the different collection coordinates and whether those coordinates were obtained from the original dataset or from Google Earth.
+
+1. Number of variables: 5
+2. Number of cases/rows: 1760
+3. Variable List:
+scientific_name: the scientific name of the specimen
+decimal_latitude: the latitude where the specimen was collected in decimal format
+decimal_longitude: the longitude where the specimen was collected in decimal format
+where_obtained_coordinates: whether the decimal coordinates were in the original dataset the record was from or was obtained by using google earth and searching for the collection location
+total_num_specimens: the number of specimens that correspond to this combination of "scientific_name", "decimal_latitude", "decimal_longitude", "where_obtained_coordinates"

@@ -1,0 +1,21 @@
+Data used in:
+
+Bee species richness through time in an urbanizing landscape of the southeastern USA
+
+Selina A. Ruzi, Elsa Youngsteadt, April Cherveny, Jessica Kettenbach, Hannah K. Levenson, Danesha Seth Carley, Jaime A. Collazo, and Rebecca E. Irwin
+
+Published in ####
+
+List of specimens utilized in the manuscript, where they are found, and where the data can be obtained online.
+
+1. Number of variables: 8
+2. Number of cases/rows: 11227
+3. Variable List:
+collection_code: the abbreviation of what collection the specimen belongs to
+catalog_number: a unique number or combination of letters and numbers that refers to a specimen
+data_source: where the specimen data was originally obtained from for this manuscript
+location_data_pulled_from: the location where the data for the specimen originally came from for this manuscript
+availability_notes: where data for this specimen can be found
+collection_url: the url to where the data for specimens can be found if the specimen data was not originally collected from an online database such as BISON, GBIF, or SCAN
+SCAN_catalogNumber: the catalogNumber for each specimen record in SCAN
+date_data_pulled: the date when data was pulled from online databases such as BISON, GBIF, or SCAN if the specimen data originally came from an online database

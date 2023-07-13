@@ -1,0 +1,23 @@
+Data used in:
+
+Bee species richness through time in an urbanizing landscape of the southeastern USA
+
+Selina A. Ruzi, Elsa Youngsteadt, April Cherveny, Jessica Kettenbach, Hannah K. Levenson, Danesha Seth Carley, Jaime A. Collazo, and Rebecca E. Irwin
+
+Published in ####
+
+Dataset of unique specimen records as defined by unique combinations of scientific name, collection date, collector, and location collected at. These records may be associated with multiple specimens of the same species collected by the same person on the same day at the same location though they will be referred to as specimens within the variable descriptions below. Used for estimating species richness trends and when species were collected over time.
+
+1. Number of variables: 10
+2. Number of cases/rows: 6080
+3. Variable List:
+scientific_name: the scientific name of the specimen
+family: the taxonomic family the specimen belongs to
+day: the day the specimen was collected on
+month: the month the specimen was collected on
+year: the year the specimen was collected on
+recorded_by: who collected the specimen
+decimal_latitude: the latitude where the specimen was collected in decimal format
+decimal_longitude: the longitude where the specimen was collected in decimal format
+where_obtained_coordinates: whether the decimal coordinates were in the original dataset the record was from or was obtained by using google earth and searching for the collection location
+n: the number of specimens that the unique combination of "scientific_name", "day", "month", "year", "recorded_by", "decimal_latitude", "decimal_longitude" corresonds to

@@ -1,0 +1,33 @@
+Data used in:
+
+Bee species richness through time in an urbanizing landscape of the southeastern USA
+
+Selina A. Ruzi, Elsa Youngsteadt, April Cherveny, Jessica Kettenbach, Hannah K. Levenson, Danesha Seth Carley, Jaime A. Collazo, and Rebecca E. Irwin
+
+Published in ####
+
+List of species, their traits, and the sources for each of the traits. Used for species trati categroizations and creating the heatmaps.
+
+1. Number of variables: 20
+2. Number of cases/rows: 328
+3. Variable List:
+Scientific Name: the scientific name of the specimen
+Family: the taxonomic family the species belongs to
+Native Status: whether the species is native or not to North Carolina
+Native Notes: notes about "Native Status"
+Native Source: sources for where the information in "Native Status" came from
+Nesting level: whether the species is known to nest above or belowground
+Nesting Rent or Build: whether the species is known to rent or build their nests
+Nest Substrate: what the species is known to make their nests out of
+nesting Notes: notes about nesting information
+Nesting Sources: sources for where the information about nesting comes from
+Diet Categroy: whether the species is known to be a generalist or a speciailise
+Diet Oligo Host: if the species is a specialist what hosts it is known to feed on
+Diet Notes: notes on diet
+Diet Source: sources for where the information about diet comes from
+Social Category: what social category the species belongs to
+Social Notes: notes about the "Social Category"
+Social Sources: sources for where the information about "Social Category" came from
+Parasite Host: if the species is parasitic what hosts they are known to parasitize
+Parasite Host Notes: notes on "Parasite Host"
+Parasite Host Sources: sources for where the information about "Parasite Host" comes from
